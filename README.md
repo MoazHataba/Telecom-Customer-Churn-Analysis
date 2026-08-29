@@ -113,10 +113,6 @@ Additional analytical features were created during the cleaning and preparation 
 
 ---
 
-## 🙏 Thank You
-
----
-
 # 📌 Key KPIs
 
 | KPI                    |        Value |
@@ -265,3 +261,5 @@ Data Analytics Project
 ## ⭐ Project
 
 If you found this project useful or interesting, feel free to ⭐ the repository.
+
+## 🙏 Thank You
