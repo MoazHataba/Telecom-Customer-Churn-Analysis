@@ -249,10 +249,10 @@ Monitor
 
 ## 👤 Author
 
-**Moaz Osama Esmail**
-**Ziad Mohamed Mokhtar**
-**Mayar Hesham Helmy**
-**Seif Eldeen Tarek Abdelfatah**
+- **Moaz Osama Esmail**
+- **Ziad Mohamed Mokhtar**
+- **Mayar Hesham Helmy**
+- **Seif Eldeen Tarek Abdelfatah**
 
 Telecom Customer Churn Analysis  
 Data Analytics Project
