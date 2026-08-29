@@ -98,7 +98,7 @@ Additional analytical features were created during the cleaning and preparation 
 
 ## 🏠 Landing Page
 
-![Telecom Customer Churn Analysis]([Images/01_Landing_Page.jpg](https://github.com/MoazHataba/Telecom-Customer-Churn-Analysis/blob/main/Dashboard/dashboard.png))
+![Telecom Customer Churn Analysis](https://github.com/MoazHataba/Telecom-Customer-Churn-Analysis/blob/main/Dashboard/dashboard.png)
 
 ---
 
